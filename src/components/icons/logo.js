@@ -5,3 +5,13 @@ const IconLogo = () => (
   );
 
 export default IconLogo;
+<style>
+  .IconLogo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Adjust height as needed */
+  width: 100vw; /* Adjust width as needed */
+}
+
+</style>
