@@ -59,15 +59,18 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hi, my name is</h1>;
+  const one = <h1>My name is</h1>;
   const two = <h2 className="big-heading">Peter Cho.</h2>;
-  const three = <h3 className="big-heading">Im Not Your Ordinary Entrepreneur</h3>;
+  const three = <h3 className="big-heading">Internet Enthusiast</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
+        I’m a multifaceted professional with extensive experience across various industries, 
+    including warehouse management, web development, and cybersecurity.
+    As the CEO of an online agency and co-owner of a physical store, 
+    I focus on creating innovative digital solutions and optimizing business operations. 
+    My journey has also included successfully selling a clothing brand, reflecting my entrepreneurial spirit and expertise 
+    in branding and marketing.{' '}
         <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
           Upstatement
         </a>
