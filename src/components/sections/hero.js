@@ -73,7 +73,6 @@ const Hero = () => {
     I focus on creating a space to grow with my clients and handle business operations. 
     My journey has also included successfully selling a clothing brand displaying my previous expertise 
     in branding + marketing.
-        .
       </p>
     </>
   );
