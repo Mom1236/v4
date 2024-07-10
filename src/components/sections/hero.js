@@ -65,7 +65,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-    A professional with experience accross many industries including warehouse management, web development, and cybersecurity. As the CEO
+    A professional with experience across many industries including warehouse management, web development, and cybersecurity. As the CEO
     of an online agency and co-owner of a physical store, 
     I focus on creating a space to grow with my clients and handle business operations. 
     My journey has also included successfully selling a clothing brand displaying my previous expertise 
