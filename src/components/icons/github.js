@@ -4,7 +4,7 @@ const IconGitHub = () => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
     role="img"
-    viewBox="0 0 24 24"
+    viewBox="0 0 70 70"
     fill="none"
     stroke="currentColor"
     strokeWidth="2"
