@@ -135,10 +135,16 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+    Hello! My name is Peter, and I enjoy in collaborating with other shipping related businesses and creating room for margin improvals.
+    I have a multitude of experience across many industries 
+    including warehouse management, web development, and cybersecurity. As the CEO
+    of an online agency {' '}
+        <a href="https://lotterylogistics.com/" target="_blank" rel="noreferrer">
+          LotteryLogistics
+        </a> and a stake holder in 2 medium sized warehouses,
+    I focus on creating a space to grow with my clients and handle business operations. 
+    My journey has also included successfully selling a clothing brand displaying my previous expertise 
+    in branding + marketing.
             </p>
 
             <p>
