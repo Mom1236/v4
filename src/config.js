@@ -1,10 +1,10 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'peter.business55@gmail.com',
 
   socialMedia: [
     {
-      name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      name: 'WebSite',
+      url: 'https://lotterylogistics.com/',
     },
     {
       name: 'Instagram',
