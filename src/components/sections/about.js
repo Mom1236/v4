@@ -141,9 +141,9 @@ const About = () => {
     of an online agency {' '}
         <a href="https://lotterylogistics.com/" target="_blank" rel="noreferrer">
           LotteryLogistics
-        </a> and a stake holder in 2 medium sized warehouses,
-    I focus on creating a space to grow with my clients and handle business operations. 
-    My journey has also included successfully selling a clothing brand displaying my previous expertise 
+        </a> and a stake holder in 2 warehouses,
+    I focus on creating a space to grow with my clients and handle business operations much more efficiently. 
+    My journey has also included successfully selling a clothing brand back in 2019 displaying my previous expertise 
     in branding + marketing.
             </p>
 
