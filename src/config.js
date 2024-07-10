@@ -12,16 +12,16 @@ module.exports = {
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://youriguide.com/301_w_hintz_rd_wheeling_il/',
     },
-    {
-      name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
-    },
+  /////  {
+     ///// name: 'Linkedin',
+     ///// url: 'https://www.linkedin.com/in/bchiang7',
+  /////  },
+   ///// {
+   /////   name: 'Codepen',
+   /////   url: 'https://codepen.io/bchiang7',
+ /////   },
   ],
 
   navLinks: [
