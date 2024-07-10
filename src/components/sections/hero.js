@@ -65,14 +65,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-    A professional with experience across many industries including warehouse management, web development, and cybersecurity. As the CEO
-    of an online agency {' '}
-        <a href="https://lotterylogistics.com/" target="_blank" rel="noreferrer">
-          LotteryLogistics
-        </a> and co-owner of a physical store, 
-    I focus on creating a space to grow with my clients and handle business operations. 
-    My journey has also included successfully selling a clothing brand displaying my previous expertise 
-    in branding + marketing.
+    I’m an online entrepreneur specializing in transportation and logistics and handling large volume of customer orders. Currently, I’m focused on expanding my agency and grow with my clients 
+   
       </p>
     </>
   );
