@@ -3,7 +3,7 @@ module.exports = {
 
   socialMedia: [
     {
-      name: 'WebSite',
+      name: 'GitHub',
       url: 'https://lotterylogistics.com/',
     },
     {
