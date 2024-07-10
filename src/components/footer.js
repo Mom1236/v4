@@ -105,12 +105,12 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <a href="/*">
+        <a href="/">
           <div>Peter Cho </div>
 
         
-            </div>
-          )}
+            
+          
         </a>
       </StyledCredit>
     </StyledFooter>
