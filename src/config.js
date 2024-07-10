@@ -7,8 +7,8 @@ module.exports = {
       url: 'https://lotterylogistics.com/',
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      name: 'Discord',
+      url: 'https://discord.gg/YWQHZP9mrD',
     },
     {
       name: 'Twitter',
