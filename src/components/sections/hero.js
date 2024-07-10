@@ -65,7 +65,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-    I’m an online entrepreneur specializing in transportation and logistics and handling large volume of customer orders. Currently, I’m focused on expanding my agency and grow with my clients 
+    I’m an online entrepreneur specializing in transportation and logistics and handling large volume of customer orders. Currently, I’m focused on expanding my agency and growing alongside my partners.
    
       </p>
     </>
