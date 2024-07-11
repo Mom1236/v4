@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Peter Cho',
     description:
-      'Peter Cho is an online entrepreneur specializing in the service agency and logistics industries.',
+      'An online entrepreneur specializing in the service agency and logistics industries.',
     siteUrl: 'https://petercho.ceo', // No trailing slash allowed!
     image: '/gwgw', // Path to your image you placed in the 'static' folder
     twitterUsername: '@pgwegg2t3t2t',
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Brittany Chiang',
-        short_name: 'Brittany Chiang',
+        name: 'Peter Cho',
+        short_name: 'Peter',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
