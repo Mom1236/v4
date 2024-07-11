@@ -5,9 +5,9 @@ module.exports = {
     title: 'Peter Cho',
     description:
       'Peter Cho is an online entrepreneur specializing in the service agency and logistics industries.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://petercho.ceo', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@pgwegg2t3t2t',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
