@@ -1,15 +1,14 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Sports Betting Group'
+cover: './sbgroup.png'
+external: 'https://discord.gg/4j6Rqmc4Nz'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - EV+ Betting
+  - Team Arbitrage
+  - Fantasy Sports
+  - High Value Plays
+  - Backed by AI 
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+A sports betting discord server. We offer EV+ Betting, Team Arbitrage, Fantasy Sports strategies, high-value plays, and AI Sheets for data-driven insights. Join us to elevate your betting game and maximize your profits!
