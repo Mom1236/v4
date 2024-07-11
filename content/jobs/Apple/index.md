@@ -1,13 +1,10 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+date: '2023-11-21'
+title: 'Stakeholder / Partner'
+company: 'Warehouse #2'
+location: 'Van Nuys, CA'
+range: 'November - Present'
+url: 'https://www.loopnet.com/viewer/pdf?file=https%3a%2f%2fimages1.loopnet.com%2fd2%2fEG-xAQaUT_ScWir4CI5MJEou-1vDErMF1rDWLURTgX4%2fHayvenhurst764733AIRDraft.pdf'
 ---
 
-- Developed and styled interactive web applications for Apple Music using Ember and SCSS
-- Built and shipped the Apple Music Extension for Facebook Messenger leveraging third-party and internal API integrations
-- Architected and implemented the user interface of Apple Music's embeddable web player widget for in-browser user authorization and full song playback
-- Contributed extensively to the creation of MusicKit JS, a public-facing JavaScript SDK for embedding Apple Music players into web applications
+- Stake holder
