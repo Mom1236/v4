@@ -1,11 +1,10 @@
 ---
-date: '2017-04-01'
-title: 'Developer'
-company: 'Scout Studio'
-location: 'Northeastern University'
-range: 'Spring 2016 & 2017'
-url: 'https://web.northeastern.edu/scout/'
+date: '2023-09-04'
+title: 'Stakeholder / Co - Founder'
+company: 'Warehouse #1'
+location: 'Wheeling, IL'
+range: 'September - Present'
+url: 'https://youriguide.com/301_w_hintz_rd_wheeling_il'
 ---
 
-- Collaborated with other student designers and engineers on pro-bono projects to create new brands, design systems, and websites for organizations in the community
-- Built and delivered technical solutions according to stakeholder business requirements
+- Co-founder
