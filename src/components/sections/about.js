@@ -143,31 +143,12 @@ const About = () => {
           LotteryLogistics
         </a> and a stake holder in 2 warehouses,
     I focus on creating a space to grow with my clients and handle business operations much more efficiently. 
-    My journey has also included successfully selling a clothing brand back in 2019 displaying my previous expertise 
+    My journey has also included successfully selling a clothing brand back in 2021 displaying my previous expertise 
     in branding + marketing.
             </p>
 
-            <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
-            </p>
 
-            <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
-            </p>
-
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Here are a few things I've worked on in the past:</p>
           </div>
 
           <ul className="skills-list">
