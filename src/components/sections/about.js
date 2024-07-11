@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['Cryptocurreny','Blockchain','Stocks','Warehouse Operations','Logistics Industry','Client Relationship Management (CRM)','Clothing Brand - Shopify','Online Store Price Errors','Reselling','JavaScript', 'React', 'HTML', 'Node.js'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -148,7 +148,7 @@ const About = () => {
             </p>
 
 
-            <p>Here are a few things I've worked on in the past:</p>
+            <p>Here are a few things I've done or experienced in the past:</p>
           </div>
 
           <ul className="skills-list">
