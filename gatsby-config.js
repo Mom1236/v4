@@ -6,7 +6,7 @@ module.exports = {
     description:
       'Peter Cho is an online entrepreneur specializing in the service agency and logistics industries.',
     siteUrl: 'https://petercho.ceo', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
+    image: '/gwgw', // Path to your image you placed in the 'static' folder
     twitterUsername: '@pgwegg2t3t2t',
   },
   plugins: [
