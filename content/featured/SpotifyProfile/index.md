@@ -11,4 +11,4 @@ tech:
   - Backed by AI 
 ---
 
-A sports betting discord server. We offer EV+ Betting, Team Arbitrage, Fantasy Sports strategies, high-value plays, and AI Sheets for data-driven insights. Join us to elevate your betting game and maximize your profits!
+A sports betting discord server. We offer EV+ Betting, Team Arbitrage, Fantasy Sports strategies, high-value plays, and AI Sheets for data-driven insights. Join to maximize your profits!
