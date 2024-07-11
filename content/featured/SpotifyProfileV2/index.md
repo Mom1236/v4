@@ -2,7 +2,8 @@
 date: '3'
 title: 'Warehouses'
 cover: './cali.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+external: 'https://youriguide.com/301_w_hintz_rd_wheeling_il/'
+external: 'https://www.loopnet.com/viewer/pdf?file=https%3a%2f%2fimages1.loopnet.com%2fd2%2fEG-xAQaUT_ScWir4CI5MJEou-1vDErMF1rDWLURTgX4%2fHayvenhurst764733AIRDraft.pdf'
 tech:
   - 2 Locations
   - 3 Managers (Including Me)
