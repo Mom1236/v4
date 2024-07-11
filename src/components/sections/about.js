@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Cryptocurreny','Blockchain','Stocks','Warehouse Operations','Arbitrage Sports Betting','Pro Fantasy Sports Betting Group','Logistics Industry','Refunding Agency','APE Agency','Client Relationship Management (CRM)','Clothing Brand - Shopify','Online Store Price Errors','Reselling','JavaScript', 'React', 'HTML', 'Node.js','Python3.0','Java'];
+  const skills = ['Website Development','Cybersecurity','Pentesting (With Consent)','Cryptocurreny','Blockchain','Stocks','Warehouse Operations','Arbitrage Sports Betting','EV+ Sports Betting','Sports Betting Group','Logistics Industry','Refunding Agency','APE Agency','Client Relationship Management (CRM)','Clothing Brand Designs ','Online Store Price Errors','Reselling','JavaScript', 'React', 'HTML', 'Node.js','Python3.0','Java'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
